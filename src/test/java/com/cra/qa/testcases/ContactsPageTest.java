@@ -21,6 +21,8 @@ public class ContactsPageTest extends TestBase {
 	public ContactsPageTest() {
 		super();
 		System.out.println("This is called : Constructor of Contacts");
+		
+		System.out.println("This is called : Constructor of Contacts");
 	}
 
 	@BeforeMethod
